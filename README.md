@@ -1,2 +1,2 @@
 # hello_world_tut
-# WTH?!
+# It's like that
